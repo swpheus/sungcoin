@@ -1,0 +1,13 @@
+{
+  "name": "sungcoin",
+  "version": "1.0",
+  "description": "sungcoin made node.js",
+  "main": "src/server.js",
+  "repository": "https://github.com/swpheus/sungcoin.git",
+  "author": "<swpheus1@naver.com>",
+  "license": "MIT",
+  "private": false,
+  "dependencies": {
+    "crypto-js": "^3.1.9-1"
+  }
+}
